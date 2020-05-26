@@ -1,0 +1,11 @@
+Datos Usuario Principal (Super Administrador)
+---------------------------------------------
+user: rpregalado   pass: seguridad2020*
+---------------------------------------------
+
+Datos usuarios de prueba:
+
+----------------------------
+   user      clave
+----------------------------
+vendara      natalia2019
